@@ -1,4 +1,7 @@
 {
   "name": "next-runtime-env",
-  "main": "index.js"
+  "main": "index.js",
+  "dependencies": {
+    "next-runtime-env": "file:"
+  }
 }

@@ -1,4 +1,7 @@
 {
   "name": "next_navigation",
-  "main": "./index.js"
+  "main": "./index.js",
+  "dependencies": {
+    "next_navigation": "file:"
+  }
 }

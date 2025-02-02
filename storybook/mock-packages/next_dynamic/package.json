@@ -1,4 +1,7 @@
 {
   "name": "next_d",
-  "main": "./index.js"
+  "main": "./index.js",
+  "dependencies": {
+    "next_d": "file:"
+  }
 }

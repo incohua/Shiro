@@ -6,5 +6,7 @@
       "default": "./src/fetch.client.ts"
     }
   },
-  "devDependencies": {}
+  "dependencies": {
+    "@shiro/fetch": "file:"
+  }
 }

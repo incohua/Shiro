@@ -1,4 +1,7 @@
 {
   "name": "next_image",
-  "main": "./index.js"
+  "main": "./index.js",
+  "dependencies": {
+    "next_image": "file:"
+  }
 }
